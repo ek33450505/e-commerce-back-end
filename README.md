@@ -27,10 +27,11 @@ THEN I am able to successfully create, update, and delete data in my database
   - [Contact](#contact)
 
   ## Installation: 
-  To install this program please enter: (git clone https://github.com/ek33450505/E-commerce) in your computers terminal and open in your code editor. Please ensure you have Node.js installed on you computer of this repository will not work. To run the application you must also enter [npm install] in your command line in order to install the correct packages.
+  To install this program please enter: (git clone https://github.com/ek33450505/E-commerce) in your computers terminal and open in your code editor. Please ensure you have Node.js installed on you computer of this repository will not work. To run the application you must also enter [npm install] in your command line to install the correct npm packages.
  
   ## Visualization:
 
+  Please open the following link to view a video of the application working in my terminal and in Insomnia.
 
   ## License: 
 
@@ -38,9 +39,11 @@ THEN I am able to successfully create, update, and delete data in my database
 
   ## Contributors:
   
+  GitHub user Xandromus provided the starter code for this project. His GitHub profile can be found here!: https://github.com/Xandromus
 
   ## Tests:
   
+  After cloning this project to your computer and running [npm install], you can test API Routes by running [npm star] and connect to your localhost
 
   ## Contact:
 
