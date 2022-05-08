@@ -31,7 +31,11 @@ THEN I am able to successfully create, update, and delete data in my database
  
   ## Visualization:
 
-  Please open the following link to view a video of the application working in my terminal and in Insomnia.
+  Please open the following link to view a videos of the application working in my terminal, Mysql Workbench and Insomnia.
+  
+  VIDEO 1: https://drive.google.com/file/d/15gNVnX3s2UHQv20K9Lj-ywcQwLyGEgPU/view
+  
+  VIDEO 2: https://drive.google.com/file/d/1olZq4Xu5yEOuyL9vx6QOfr82dNAE4syQ/view
 
   ## License: 
 
